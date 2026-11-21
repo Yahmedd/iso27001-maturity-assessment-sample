@@ -17,6 +17,7 @@ Velmora Payments is a fictional 120-person payment fintech: cloud-hosted platfor
 | [`report/maturity_report.md`](report/maturity_report.md) | Generated report: overall maturity, maturity by domain, prioritised roadmap, detailed findings |
 | [`report/maturity_report.html`](report/maturity_report.html) | Same report as a one-page HTML dashboard |
 | [`ebios-rm/`](ebios-rm/README.md) | Full EBIOS Risk Manager analysis (5 workshops, in French) building on the assessment's findings |
+| [`continuity/`](continuity/README.md) | Business Impact Analysis and continuity / recovery plan (ISO 22301, DORA), in French |
 
 ## Method
 
